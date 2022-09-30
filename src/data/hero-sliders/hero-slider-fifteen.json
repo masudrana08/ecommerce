@@ -1,16 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Enjoy This Offer Today",
-    "subtitle": "New Collection <br>Sale 40%",
-    "image": "/assets/img/slider/slider-12.jpg",
+    "image": "https://i.ibb.co/pRJgQ7H/1.png",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
-    "title": "Enjoy This Offer Today",
-    "subtitle": "New Collection <br>Sale 20%",
-    "image": "/assets/img/slider/slider-12-2.jpg",
+    "image": "https://i.ibb.co/K55NW71/12.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/6wjDC8m/10.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/T1cg8fH/8.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/XjFNKyR/6.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/1vDCHyP/5.png",
     "url": "/shop-grid-standard"
   }
 ]

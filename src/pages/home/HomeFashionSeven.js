@@ -44,7 +44,7 @@ const HomeFashionSeven = () => {
         <CountDownThree
           spaceTopClass="pt-100"
           spaceBottomClass="pb-100"
-          dateTime="November 13, 2020 12:12:00"
+          dateTime="October 1, 2022 12:12:00"
           countDownImage="/assets/img/banner/deal-2.png"
         />
         {/* feature icon */}
