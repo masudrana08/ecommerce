@@ -56,7 +56,7 @@ const ProductGridSingleThree = ({
             {product.discount || product.new ? (
               <div className="product-img-badges">
                 {product.discount ? (
-                  <span className="pink">-{product.discount}%</span>
+                  <span className="themeColor">-{product.discount}%</span>
                 ) : (
                   ""
                 )}
