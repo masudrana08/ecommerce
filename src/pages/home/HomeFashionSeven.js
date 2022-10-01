@@ -6,7 +6,6 @@ import TabProductNine from "../../wrappers/product/TabProductNine";
 import BannerEleven from "../../wrappers/banner/BannerEleven";
 import CountDownThree from "../../wrappers/countdown/CountDownThree";
 import FeatureIconFour from "../../wrappers/feature-icon/FeatureIconFour";
-import NewsletterThree from "../../wrappers/newsletter/NewsletterThree";
 import BrandLogoSliderOne from "../../wrappers/brand-logo/BrandLogoSliderOne";
 import FeatureIcon from "../../wrappers/feature-icon/FeatureIcon";
 import BlogFeatured from "../../wrappers/blog-featured/BlogFeatured";
@@ -62,12 +61,7 @@ const HomeFashionSeven = () => {
          {/* blog featured */}
          <BlogFeatured spaceTopClass="pt-55" />
 
-        {/* newsletter */}
-        <NewsletterThree
-          spaceTopClass="pt-100"
-          spaceBottomClass="pb-100"
-          subscribeBtnClass="dark-red-subscribe"
-        />
+        
       </LayoutOne>
     </Fragment>
   );
