@@ -39,21 +39,16 @@ const HomeFashionSeven = () => {
         />
         {/* banner */}
         <BannerEleven />
+
+       
+
         {/* countdown */}
         <CountDownThree
           spaceTopClass="pt-100"
-          spaceBottomClass="pb-100"
-          dateTime="October 1, 2022 12:12:00"
+          dateTime="October 30, 2022 12:12:00"
           countDownImage="/assets/img/banner/deal-2.png"
         />
-        {/* feature icon */}
-        <FeatureIconFour
-          bgImg="/assets/img/bg/shape.png"
-          containerClass="container-fluid"
-          gutterClass="padding-10-row-col"
-          spaceTopClass="pt-50"
-          spaceBottomClass="pb-40"
-        />
+       
         
         {/* Brand logo slider  */}
         <BrandLogoSliderOne spaceBottomClass="pt-95" />

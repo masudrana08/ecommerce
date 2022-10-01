@@ -35,7 +35,7 @@ const CountDownThree = ({
             <div className="funfact-image">
               <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
                 <img
-                  src={process.env.PUBLIC_URL + countDownImage}
+                  src="https://i.ibb.co/XxVnfF9/10.png"
                   alt=""
                   className="img-fluid"
                 />
