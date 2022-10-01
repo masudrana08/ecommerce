@@ -5,6 +5,7 @@ import Nav from "react-bootstrap/Nav";
 import SectionTitle from "../../components/section-title/SectionTitle";
 import ProductGrid from "./ProductGrid";
 
+
 const TabProduct = ({
   spaceTopClass,
   spaceBottomClass,
