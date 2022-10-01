@@ -13,7 +13,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass }) => {
       <p>
         © 2020{" "}
         <a href="//hasthemes.com" rel="noopener noreferrer" target="_blank">
-          Flone
+          Abdar
         </a>
         .<br /> All Rights Reserved
       </p>
